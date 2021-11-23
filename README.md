@@ -15,8 +15,10 @@
 
 ## My Accounts
 <p align="center">
-<a href= "https://discord.com/users/382612768924368906"
-target="_blank">
-</a>
+<a href= "https://discord.com/users/382612768924368906" target="_blank"></a>
 <img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white">
+<a href= "https://www.instagram.com/burakuslendera/" target="_blank"></a>
+<img src="https://img.shields.io/badge/instagram%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+<a href= "https://www.linkedin.com/in/burak-bak%C4%B1r-028248200/" target="_blank"></a>
+<img src="https://img.shields.io/badge/linkedin%20-111111.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </p>  
