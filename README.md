@@ -6,11 +6,11 @@
 
 ## Languages
 <div align="center">
-<img src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/C++%20-%23323330.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/> 
-<img src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Minecraft%20fabric%20mod%20developer%20-%23323330.svg?&style=for-the-badge&logo=Minecraft&logoColor=white"/>  
+<img src="https://img.shields.io/badge/java%20-%20-ff0000.svg?&style=for-the-badge&logo=java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/python%20-%20-ff0000.svg?&style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/C++%20-%20-ff0000.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/> 
+<img src="https://img.shields.io/badge/html5%20-%20-ff0000.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Minecraft%20fabric%20mod%20developer%20-%20-ff0000.svg?&style=for-the-badge&logo=Minecraft&logoColor=white"/>  
 </div>
 
 ## My Accounts
