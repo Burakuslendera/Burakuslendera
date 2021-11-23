@@ -25,4 +25,6 @@
 <img src="https://img.shields.io/badge/twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href= "https://open.spotify.com/user/21z5asbnio3i4fn7ophxfahcy?si=1f93770571a046f5" target="_blank">
 <img src="https://img.shields.io/badge/spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href= "https://myanimelist.net/profile/Burakuslendera" target="_blank">  
+<img src="https://img.shields.io/badge/myanimelist-%23323330.svg?&style=for-the-badge&logo=myanimelist&logoColor=white"></a>
 </p>  
