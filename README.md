@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Java%20-ff0000.svg?&style=for-the-badge&logo=java&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Python%20-ff0000.svg?&style=for-the-badge&logo=python&logoColor=black"/>  
 <img src="https://img.shields.io/badge/C++%20-ff0000.svg?&style=for-the-badge&logo=cplusplus&logoColor=black"/> 
-<img src="https://img.shields.io/badge/HTML5%20-ff0000.svg?&style=for-the-badge&logo=html&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5%20-ff0000.svg?&style=for-the-badge&logo=html5&logoColor=black"/>
 <img src="https://img.shields.io/badge/Minecraft%20Fabric%20Developer%20-ff0000.svg?&style=for-the-badge&logo=Minecraft&logoColor=black"/>  
 </div>
 
