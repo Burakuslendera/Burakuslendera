@@ -12,3 +12,11 @@
 <img src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Minecraft%20fabric%20mod%20developer%20-%23323330.svg?&style=for-the-badge&logo=Minecraft&logoColor=white"/>  
 </div>
+
+## My Accounts
+<p align="center">
+<a href= "https://discord.com/users/382612768924368906"
+target="_blank">
+</a>
+<img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white">
+</p>  
