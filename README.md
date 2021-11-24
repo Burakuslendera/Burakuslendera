@@ -8,10 +8,14 @@
 <div align="center">
 <a href= "https://java.com" target="_blank">
 <img src="https://img.shields.io/badge/Java%20-ff0000.svg?&style=for-the-badge&logo=java&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Python%20-ff0000.svg?&style=for-the-badge&logo=python&logoColor=black"/>  
-<img src="https://img.shields.io/badge/C++%20-ff0000.svg?&style=for-the-badge&logo=cplusplus&logoColor=black"/> 
-<img src="https://img.shields.io/badge/HTML5%20-ff0000.svg?&style=for-the-badge&logo=html5&logoColor=black"/>
-<img src="https://img.shields.io/badge/Minecraft%20Fabric%20Developer%20-ff0000.svg?&style=for-the-badge&logo=Minecraft&logoColor=black"/>  
+<a href= "https://www.python.org/" target="_blank">  
+<img src="https://img.shields.io/badge/Python%20-ff0000.svg?&style=for-the-badge&logo=python&logoColor=black"/></a>  
+<a href= "https://www.learncpp.com/" target="_blank">    
+<img src="https://img.shields.io/badge/C++%20-ff0000.svg?&style=for-the-badge&logo=cplusplus&logoColor=black"/></a>
+<a href= "https://html.com/" target="_blank">    
+<img src="https://img.shields.io/badge/HTML5%20-ff0000.svg?&style=for-the-badge&logo=html5&logoColor=black"/></a>
+<a href= "https://fabricmc.net/wiki/doku.php" target="_blank">  
+<img src="https://img.shields.io/badge/Minecraft%20Fabric%20Developer%20-ff0000.svg?&style=for-the-badge&logo=Minecraft&logoColor=black"/></a>  
 </div>
 
 ## My Accounts
