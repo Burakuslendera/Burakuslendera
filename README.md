@@ -6,7 +6,8 @@
 
 ## Languages
 <div align="center">
-<img src="https://img.shields.io/badge/Java%20-ff0000.svg?&style=for-the-badge&logo=java&logoColor=black"/> 
+<a href= "https://java.com" target="_blank">
+<img src="https://img.shields.io/badge/Java%20-ff0000.svg?&style=for-the-badge&logo=java&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Python%20-ff0000.svg?&style=for-the-badge&logo=python&logoColor=black"/>  
 <img src="https://img.shields.io/badge/C++%20-ff0000.svg?&style=for-the-badge&logo=cplusplus&logoColor=black"/> 
 <img src="https://img.shields.io/badge/HTML5%20-ff0000.svg?&style=for-the-badge&logo=html5&logoColor=black"/>
