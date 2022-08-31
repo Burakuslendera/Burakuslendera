@@ -20,7 +20,7 @@
 
 ## My Accounts
 <p align="center">
-<a href= "https://discord.com/users/382612768924368906" target="_blank">
+<a href= "https://discord.com/users/355290531104030721" target="_blank">
 <img src="https://img.shields.io/badge/discord%20-FF7F00.svg?&style=for-the-badge&logo=discord&logoColor=black"></a>
 <a href= "https://www.instagram.com/burakuslendera/" target="_blank">
 <img src="https://img.shields.io/badge/instagram%20-FF7F00.svg?&style=for-the-badge&logo=instagram&logoColor=black"></a>
